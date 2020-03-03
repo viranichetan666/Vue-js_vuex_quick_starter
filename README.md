@@ -1,4 +1,6 @@
-# vue_starter-scss
+# vue_starter
+
+# Start VueJs project quickly
 
 ## Project setup
 ```
@@ -29,6 +31,10 @@ npm run test:e2e
 ```
 npm run lint
 ```
+### Provides
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+- Vue js and Vuex setup with basic auth flow
+- ESLint airbnb standard
+- Basic Routing with /login /signup
+- Scss with advance mixin and helpers css implemented
+- ANTD Css setup
