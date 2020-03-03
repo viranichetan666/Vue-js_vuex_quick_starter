@@ -1,6 +1,6 @@
-# vue_starter
+# Vue_starter
 
-# Start VueJs project quickly
+## Start Vuejs project quickly
 
 ## Project setup
 ```
@@ -35,6 +35,6 @@ npm run lint
 
 - Vue js and Vuex setup with basic auth flow
 - ESLint airbnb standard
-- Basic Routing with /login /signup
+- Basic routing with /login /signup
 - Scss with advance mixin and helpers css implemented
 - ANTD Css setup
